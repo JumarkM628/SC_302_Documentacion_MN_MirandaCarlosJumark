@@ -1,0 +1,2 @@
+# SC_302_Documentacion_MN_MirandaCarlosJumark
+Repositorio del laboratorio SCV
